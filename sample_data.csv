@@ -1,0 +1,7 @@
+id,category,location,description,severity,lat,lng,age_hours,source
+S-101,Waterlogging,Tambaram West,Fictional sample: water pooling near a busy junction after heavy rain.,3,12.9249,80.1,0.5,sample
+S-102,Blocked drain,Chromepet,Fictional sample: drain appears obstructed near a residential street.,2,12.9516,80.1462,5,sample
+S-103,Unsafe road,Pallavaram,Fictional sample: uneven road surface could pose a hazard.,2,12.9675,80.1491,9,sample
+S-104,Waterlogging,Tambaram West,Fictional sample: second report for demonstrating a repeated-location hotspot.,2,12.9256,80.101,2,sample
+S-105,Blocked drain,Selaiyur,Fictional sample: drain flow may be restricted near a local lane.,3,12.9068,80.1425,18,sample
+S-106,Unsafe road,Chromepet,Fictional sample: repeated concern about a damaged road edge.,1,12.9522,80.147,24,sample

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "S-101",
+    "category": "Waterlogging",
+    "location": "Tambaram West",
+    "description": "Fictional sample: water pooling near a busy junction after heavy rain.",
+    "severity": 3,
+    "lat": 12.9249,
+    "lng": 80.1,
+    "age_hours": 0.5,
+    "source": "sample"
+  },
+  {
+    "id": "S-102",
+    "category": "Blocked drain",
+    "location": "Chromepet",
+    "description": "Fictional sample: drain appears obstructed near a residential street.",
+    "severity": 2,
+    "lat": 12.9516,
+    "lng": 80.1462,
+    "age_hours": 5,
+    "source": "sample"
+  },
+  {
+    "id": "S-103",
+    "category": "Unsafe road",
+    "location": "Pallavaram",
+    "description": "Fictional sample: uneven road surface could pose a hazard.",
+    "severity": 2,
+    "lat": 12.9675,
+    "lng": 80.1491,
+    "age_hours": 9,
+    "source": "sample"
+  },
+  {
+    "id": "S-104",
+    "category": "Waterlogging",
+    "location": "Tambaram West",
+    "description": "Fictional sample: second report for demonstrating a repeated-location hotspot.",
+    "severity": 2,
+    "lat": 12.9256,
+    "lng": 80.101,
+    "age_hours": 2,
+    "source": "sample"
+  },
+  {
+    "id": "S-105",
+    "category": "Blocked drain",
+    "location": "Selaiyur",
+    "description": "Fictional sample: drain flow may be restricted near a local lane.",
+    "severity": 3,
+    "lat": 12.9068,
+    "lng": 80.1425,
+    "age_hours": 18,
+    "source": "sample"
+  },
+  {
+    "id": "S-106",
+    "category": "Unsafe road",
+    "location": "Chromepet",
+    "description": "Fictional sample: repeated concern about a damaged road edge.",
+    "severity": 1,
+    "lat": 12.9522,
+    "lng": 80.147,
+    "age_hours": 24,
+    "source": "sample"
+  }
+]
